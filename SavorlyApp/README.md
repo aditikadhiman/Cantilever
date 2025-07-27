@@ -22,22 +22,22 @@ Savorly is an intuitive Android application built to help users manage, organize
 ## 🧑‍🍳 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](../screenshots/welcome.png)
+![Welcome Screen](../screenshots/welcome.png.jpg)
 
 ### Home Screen
-![Home Screen](../screenshots/homeSavorly.png)
+![Home Screen](../screenshots/homeSavorly.png.jpg)
 
 ### Add New Recipe
-![Add Recipe](../screenshots/add.png)
+![Add Recipe](../screenshots/add.png.jpg)
 
 ### Recipe Detail View
-![Recipe Detail](../screenshots/details.png)
+![Recipe Detail](../screenshots/details.png.jpg)
 
 ### Edit Screen
-![Edit Recipe](../screenshots/edit.png)
+![Edit Recipe](../screenshots/edit.png.jpg)
 
 ### Favorites Screen
-![Favorites Screen](../screenshots/favorite.png)
+![Favorites Screen](../screenshots/favorite.png.jpg)
 
 ---
 
