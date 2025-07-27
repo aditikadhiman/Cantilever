@@ -19,25 +19,39 @@ Savorly is an intuitive Android application built to help users manage, organize
 
 ---
 
-## 🧑‍🍳 Screenshots
+<h2>🧑‍🍳 Screenshots</h2>
 
-### Welcome Screen
-<img src="../screenshots/welcome.png.jpg" alt="Welcome Screen" width="300"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="../screenshots/welcome.png.jpg" alt="Welcome Screen" width="250"/><br/>
+      <b>Welcome Screen</b>
+    </td>
+    <td align="center">
+      <img src="../screenshots/homeSavorly.png.jpg" alt="Home Screen" width="250"/><br/>
+      <b>Home Screen</b>
+    </td>
+    <td align="center">
+      <img src="../screenshots/add.png.jpg" alt="Add Recipe" width="250"/><br/>
+      <b>Add New Recipe</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../screenshots/details.png.jpg" alt="Recipe Detail" width="250"/><br/>
+      <b>Recipe Detail View</b>
+    </td>
+    <td align="center">
+      <img src="../screenshots/edit.png.jpg" alt="Edit Recipe" width="250"/><br/>
+      <b>Edit Screen</b>
+    </td>
+    <td align="center">
+      <img src="../screenshots/favorite.png.jpg" alt="Favorites Screen" width="250"/><br/>
+      <b>Favorites Screen</b>
+    </td>
+  </tr>
+</table>
 
-### Home Screen
-<img src="../screenshots/homeSavorly.png.jpg" alt="Home Screen" width="300"/>
-
-### Add New Recipe
-<img src="../screenshots/add.png.jpg" alt="Add Recipe" width="300"/>
-
-### Recipe Detail View
-<img src="../screenshots/details.png.jpg" alt="Recipe Detail" width="300"/>
-
-### Edit Screen
-<img src="../screenshots/edit.png.jpg" alt="Edit Recipe" width="300"/>
-
-### Favorites Screen
-<img src="../screenshots/favorite.png.jpg" alt="Favorites Screen" width="300"/>
 
 
 ---
