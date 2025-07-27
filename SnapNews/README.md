@@ -58,4 +58,4 @@ The app is structured using the **Model-View-ViewModel (MVVM)** pattern:
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/SnapNewsApp.git
+   git clone https://github.com/aditikadhiman/SnapNewsApp.git
